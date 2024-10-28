@@ -1,0 +1,22 @@
+{
+    "name": "Gabi Futura Dev Front End",
+    "short_name": "GabiDev",
+    "description": "Olá, eu sou a Gabi! Estudante de Sistemas de Informação e desenvolvedora front-end.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#D6417C",
+    "icons": [
+      {
+        "src":"/assets/img/logodev.png",
+        "sizes":"192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/assets/img/logodev.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
